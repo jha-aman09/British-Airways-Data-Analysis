@@ -52,7 +52,7 @@ This project focuses on analyzing customer reviews and understanding buying beha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jha-aman09/british-Airways-Data-Analysis.git
+   git clone https://github.com/jha-aman09/British-Airways-Data-Analysis.git
    ```
 
 2. Install the required dependencies and run.
