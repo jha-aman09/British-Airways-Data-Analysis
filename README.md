@@ -65,7 +65,7 @@ This project focuses on analyzing customer reviews and understanding buying beha
 
 - **Sentiment Distribution**: Majority of customer sentiments were identified as [Positive/Negative/Neutral].
 - **Key Insights**: Highlighted top factors influencing customer satisfaction and booking behavior.
-- **Predictive Model Accuracy**: Achieved an accuracy of XX% in predicting booking likelihood.
+- **Predictive Model Accuracy**: Achieved an accuracy of 89.6% in predicting booking likelihood.
 
 ---
 
