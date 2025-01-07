@@ -78,5 +78,5 @@ This project focuses on analyzing customer reviews and understanding buying beha
 ---
 
 ### Author
-[Aman Jha](https://github.com/jha-aman09)
-[LinkedIn](https://www.linkedin.com/in/aman--jha)
+- [Aman Jha](https://github.com/jha-aman09) 
+- [LinkedIn](https://www.linkedin.com/in/aman--jha)
