@@ -7,8 +7,6 @@ This project focuses on analyzing customer reviews and understanding buying beha
 - **Sentiment analysis** to determine customer sentiment and trends.
 - **Building a predictive model** to identify factors that influence booking behavior.
 
----
-
 ## Key Highlights
 
 1. **Web Scraping**
@@ -29,8 +27,6 @@ This project focuses on analyzing customer reviews and understanding buying beha
 - **Model Training**: Built predictive models using machine learning techniques to forecast customer behavior.
 - **Data Insights**: Gained insights into customer sentiment and the factors affecting bookings.
 
----
-
 ## Tools and Technologies
 
 - **Python**
@@ -39,14 +35,10 @@ This project focuses on analyzing customer reviews and understanding buying beha
 - **Scikit-learn** for predictive modeling
 - **Google Colab** for collaborative coding and model development
 
----
-
 ## Files and Links
 
 - [Sentiment Analysis Notebook](https://colab.research.google.com/drive/1hxo3PEskPcrwZi6aOK7wGqA5MbbWY4cL?usp=sharing)  
 - [Model Training Notebook](https://colab.research.google.com/drive/1z4el50p_rR6t54wMBVmWidONBbjoVr5b?usp=sharing)
-
----
 
 ## How to Use
 
@@ -59,23 +51,17 @@ This project focuses on analyzing customer reviews and understanding buying beha
 
 3. Run the notebooks in Google Colab using the provided links to explore the analysis.
 
----
-
 ## Results
 
 - **Sentiment Distribution**: Majority of customer sentiments were identified as Negative.
 - **Key Insights**: Highlighted top factors influencing customer satisfaction and booking behavior.
 - **Predictive Model Accuracy**: Achieved an accuracy of 89.6% in predicting booking likelihood.
 
----
-
 ## Future Work
 
 - Incorporate additional data sources for richer insights.
 - Improve model performance by exploring advanced machine learning algorithms.
 - Develop a dashboard to visualize findings interactively.
-
----
 
 ### Author
 - [Aman Jha](https://github.com/jha-aman09) 
